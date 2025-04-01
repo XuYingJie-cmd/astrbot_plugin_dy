@@ -1,9 +1,8 @@
-# helloworld
+# gewe抖音
 
-AstrBot 插件模板
-
-A template plugin for AstrBot plugin feature
+目前仅测试gewe
+直接复制抖音链接即可
 
 # 支持
 
-[帮助文档](https://astrbot.app)
+[帮助文档](https://github.com/XuYingJie-cmd/astrbot_plugin_dy)
